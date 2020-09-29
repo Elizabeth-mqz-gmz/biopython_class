@@ -1,7 +1,7 @@
 '''
 NAME
 	reverse-complement.py
-	ahhhh
+	ahhhhkok
     
 VERSION
     1.0
