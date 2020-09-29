@@ -1,12 +1,13 @@
 '''
 NAME
 	reverse-complement.py
+	ahhhh
     
 VERSION
     1.0
     
 AUTHOR
-	Hely Salgado :)
+	Hely Salgado :) Elizabeth
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
