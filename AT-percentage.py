@@ -23,6 +23,8 @@ USAGE
     % python AT-percentage.py -i sequence.txt
         
 '''
+#Modificacion hecha por colaborador: 's-s' 
+
 import argparse
 
 # program arguments
